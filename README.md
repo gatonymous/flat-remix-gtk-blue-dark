@@ -7,9 +7,9 @@
 
 ## Screenshots
 
-![Alt text](Screenshot_2023-10-31-21-04-39_1366x768.png)
+![Alt text](Screenshot_1.png)
 
-![Alt text](Screenshot_2023-10-31-21-05-02_1366x768.png)
+![Alt text](Screenshot_2png)
 
 ### Description
 Theme for Window Manager based on `XFCE`, you can also try it in `GTK`.

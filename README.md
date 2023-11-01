@@ -9,7 +9,7 @@
 
 ![Alt text](Screenshot_1.png)
 
-![Alt text](Screenshot_2png)
+![Alt text](Screenshot_2.png)
 
 ### Description
 Theme for Window Manager based on `XFCE`, you can also try it in `GTK`.
